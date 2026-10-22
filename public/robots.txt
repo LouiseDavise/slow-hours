@@ -1,0 +1,3 @@
+# Demo site for a fictional business: keep it out of search results.
+User-agent: *
+Disallow: /
